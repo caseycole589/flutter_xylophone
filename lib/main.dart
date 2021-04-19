@@ -17,7 +17,7 @@ class XylophoneApp extends StatelessWidget {
         },
         child: Text(''),
         style: TextButton.styleFrom(
-          backgroundColor: Colors.purple,
+          backgroundColor: color,
         ),
       ),
     );
